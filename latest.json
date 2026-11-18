@@ -1,10 +1,10 @@
 {
-  "build": 1795044091,
+  "build": 1795045860,
   "shell": "5efb65b2dc5ecfbf",
-  "label": "19 Nov 2026, 04:21",
-  "notes": "In-app updates",
-  "file": "packages/1795044091.json.gz",
-  "size": 293490,
-  "sha256": "ac5117e4338e950e249eb4cf58cb3ee5f192a04b3e582b2bfdb1dd20b66c83f3",
-  "commit": "ed4214c"
+  "label": "19 Nov 2026, 04:51",
+  "notes": "AI is chosen in one place, mute button and big player for clips",
+  "file": "packages/1795045860.json.gz",
+  "size": 294417,
+  "sha256": "16e710e2017e81fe6bb71a4b2d700d7766c6a42a4b5c2158a336a06cc0d23f31",
+  "commit": "6fb27c8"
 }
