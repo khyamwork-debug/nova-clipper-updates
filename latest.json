@@ -1,10 +1,10 @@
 {
-  "build": 1795086376,
+  "build": 1795086806,
   "shell": "5efb65b2dc5ecfbf",
-  "label": "19 Nov 2026, 16:06",
-  "notes": "Local AI works on long videos, shows which AI is used, facecam fixes",
-  "file": "packages/1795086376.json.gz",
-  "size": 296152,
-  "sha256": "87a10f2e896d36f6d8c08f282bc20359b676a42c5f707bb48dcd146323e58ec4",
-  "commit": "98d57ea"
+  "label": "19 Nov 2026, 16:13",
+  "notes": "Clean video (no streamer overlays) and your own handle on clips",
+  "file": "packages/1795086806.json.gz",
+  "size": 299659,
+  "sha256": "12cc2f15f7d8966dc0a2aac198fc8a0ab764cf7f0c08e2295966ab4c0d0d1c91",
+  "commit": "66db083"
 }
